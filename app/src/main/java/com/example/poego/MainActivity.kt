@@ -1,10 +1,12 @@
 package com.example.poego
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
 
@@ -36,4 +38,17 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction().replace(R.id.fragment_container, BeginnerGuide()).commit()
 
     }
+
+
+    fun logout () {
+        FirebaseAuth.getInstance().signOut()
+        Intent(this, LoginActivity::class.java)
+    }
+
+    override fun onBackPressed() {
+        super.onBackPressed()
+        supportFragmentManager.beginTransaction().replace(R.id.fragment_container, BeginnerGuide()).commit()
+    }
+
+
 }

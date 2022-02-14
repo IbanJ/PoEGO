@@ -90,6 +90,38 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <!-- TODO: Remove or change this placeholder text -->
+    <string name="tip1">During your journey in Path of exile you will encounter many items
+        and as a beginner you will not know which ones are valuable and which not
+        ,for that i recommend first of all getting an item Filter which you could find on www.filterblade.xyz </string>
+    <string name="tip2">Prioritize on leveling at the start and dont give so much importance to what you find, you will later on
+    realize the value they hold</string>
+    <string name="tip3">League mechanics are important and a core way to make currency in path of exile,
+    I suggest you learning them as soon as they appear in acts. At the beginning you may find them confusing,
+    but as you progress and start to understand them they increase exponentially in fun.</string>
+    <string name="tip4">As you start to understand mechanics you will have exponentially more fun as
+    many things in Path of Exile are linked.</string>
+    <string name="tip5">Uniques are a type of items that come out every league as special items with different
+    mods. Many of them are not that valuable but they come in handy for beginners that don\'t understand crafting yet.
+    In the lategame and as you understand this game, you would have to replace many of non-core uniques in your build for
+    metacrafted items with conqueror mods, as they are the strongest.</string>
+    <string name="tip6">The first time you download this game you wont have the knowledge to start your own build
+    and you will have to copy any build you find on the internet or any sources. This helps you reach the midgame and
+    reach the point where you learn core league and game mechanics.</string>
+    <string name="tip7">It is important that you try and understand as soon as posible what makes the build you
+    copied as strong as it is, as it will help you understand the meta ways of building a build. And eventually giving you
+    the knowledge to craft your own build. For theorycrafting builds, the best way known by the community is the
+    Path of Building Community Fork tool. Can be found googling it.</string>
+    <string name="tip8">As you journey through the acts and you reach act3 you will encounter the Labyrinth. These dungeon
+    is both kinda difficult and dangerous as its full of traps and if you die you will have to restart it from the beginning.
+    But this dungeon holds great power to those who are capable of overcome it. So have fun trying to conquer it and listening to
+    the wise messages Izaro(The final boss) gives you through the dungeon.</string>
+
+    <string name="vendor_recipe1">6 SOCKETS</string>
+    <string name="vendor_recipe2">6 LINKED SOCKETS</string>
+    <string name="vendor_recipe3">level 20 gem + gemcutter prism = 20% quality gem</string>
+    <string name="vendor_recipe4">RGB SOCKET ITEM = chromatic orb</string>
+    <string name="vendor_recipe5">1 gem 20% or many gems 40% = gemcutter prism</string>
+    <string name="vendor_recipe6">Magic/Rare boots with MS + orb of augmentation + quicksilver flask = Boots with 10% MS</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email">Email</string>

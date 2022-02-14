@@ -3,11 +3,165 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/darkbrown"
     tools:context=".BeginnerGuide">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tip1Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip1Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip1"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip2Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip2Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip2"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip3Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip3Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip3"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip4Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="4"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip4Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip4"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip5Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="5"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip5Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip5"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip6Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="6"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip6Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip6"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip7Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="7"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip7Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip7"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tip8Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="8"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/brightyellow"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tip8Text"
+            android:layout_width="match_parent"
+            android:layout_height="107dp"
+            android:fontFamily="@font/alegreya_sc"
+            android:text="@string/tip8"
+            android:textColor="@color/brightyellow"
+            android:textSize="14sp" />
+    </LinearLayout>
 </androidx.core.widget.NestedScrollView>

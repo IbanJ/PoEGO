@@ -11,7 +11,8 @@
         <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/activity_main.xml" value="0.2694746376811594" />
         <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/fragment_auth.xml" value="0.20923913043478262" />
-        <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/fragment_beguinner_guide.xml" value="0.2694746376811594" />
+        <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/fragment_beguinner_guide.xml" value="0.25" />
+        <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/fragment_setting.xml" value="0.33" />
         <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
         <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/fragment_vendor_recipes.xml" value="0.36666666666666664" />
         <entry key="..\:/PoEGO(Git)/PoEGO/app/src/main/res/layout/vendor_recipes.xml" value="0.20520833333333333" />
@@ -20,7 +21,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

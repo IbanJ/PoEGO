@@ -29,7 +29,7 @@ class LoginActivity : AppCompatActivity() {
 
     }
 
-    private fun register () {
+    fun register () {
         createNewAccount()
     }
 
@@ -58,7 +58,7 @@ class LoginActivity : AppCompatActivity() {
 
     }
 
-    private fun login () {
+    fun login () {
         loginAccount()
     }
 
