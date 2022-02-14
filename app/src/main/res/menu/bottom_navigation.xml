@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_beguinners"
+        android:icon="@drawable/ic_exaltedorbicon"
+        android:title="Beguinner's Guide"/>
+    <item
+        android:id="@+id/vendors_recipe"
+        android:icon="@drawable/ic_chaosorbicon"
+        android:title="Vendors Recipe"/>
+    <item
+        android:id="@+id/nav_user_settings"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="User Settings"/>
+</menu>
