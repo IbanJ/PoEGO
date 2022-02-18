@@ -22,7 +22,7 @@
             android:textSize="25dp" />
 
         <ImageView
-            android:id="@+id/imageView"
+            android:id="@+id/sockets6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:src="@tools:sample/avatars" />
@@ -37,7 +37,7 @@
             android:textSize="25dp" />
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/socketsLinked"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:src="@tools:sample/avatars" />
@@ -52,7 +52,7 @@
             android:textSize="25dp" />
 
         <ImageView
-            android:id="@+id/imageView3"
+            android:id="@+id/gemcutter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:src="@tools:sample/avatars" />
@@ -67,7 +67,7 @@
             android:textSize="25dp" />
 
         <ImageView
-            android:id="@+id/imageView4"
+            android:id="@+id/chromatic"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:src="@tools:sample/avatars" />
@@ -82,7 +82,7 @@
             android:textSize="25dp" />
 
         <ImageView
-            android:id="@+id/imageView5"
+            android:id="@+id/level20"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:src="@tools:sample/avatars" />
@@ -97,7 +97,7 @@
             android:textSize="25dp" />
 
         <ImageView
-            android:id="@+id/imageView6"
+            android:id="@+id/magicBoots"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:src="@tools:sample/avatars" />
